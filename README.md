@@ -1,5 +1,6 @@
 <h1 align="center" style="color:#140084;">Tempo-Run</h1>
 <p align="center" style="color:#4a4a4a;">Code used for Tempo Run</p>
+<p align="center" style="color:#4a4a4a;">Sentiment analysis</p>
 <ol style="color:#4a4a4a;">
   <li>Mở Google Colab</li>
   <li>Upload 3 file teencode.txt và icon.txt lên và data_phase_2.txt (data vòng private)</li>
